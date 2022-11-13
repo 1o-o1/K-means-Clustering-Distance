@@ -4,7 +4,8 @@
 We can define similarity between two clusters using MIN, MAX, group average, distance between centroids, other methods driven
 by an objective function like ward’s method that uses squared error. This Project showcase variants
 of k-means which uses an alternative distance measure . Also different K-Mean algorithms are also show cased various distribution of dataset to compare their outcomes
-**Algorithms:** 
+
+**Algorithms:**<br> 
 -kmeans Elkan
 -kmeans Lloyd
 -kmeans Manhatten
@@ -16,7 +17,8 @@ of k-means which uses an alternative distance measure . Also different K-Mean al
 -OPTICS
 -BIRCH
 -Gaussian Mixture
-**Distance Measurement:**
+
+**Distance Measurement:**<br>
 -euclidean
 -squared euclidean
 -manhattan
